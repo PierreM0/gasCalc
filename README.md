@@ -4,4 +4,4 @@
 `iexplorer.exe index.html`
 
 ## Dependencies:
-Nothings, but it comes bundled with [picocss](picocss.org). It uses vanilla JS.
+Nothings, but it comes bundled with [picocss](picocss.com). It uses vanilla JS.
